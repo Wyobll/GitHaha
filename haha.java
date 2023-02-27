@@ -9,7 +9,7 @@ public class haha {
         System.out.println("hello hot-fix2");
         System.out.println("hello master");
         System.out.println("test");
-        System.out.println("test2");
-        System.out.println("test3");
+        System.out.println("push test");
+        System.out.println("远程库提交");
     }
 }
